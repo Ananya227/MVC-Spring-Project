@@ -17,7 +17,7 @@ public class Register extends HttpServlet {
 
 	
 	@Override
-	protected <Connection> void doPost(HttpServletRequest  req, HttpServletResponse resp)  throws ServletException , IOExcepption
+	protected <Connection> void doPost(HttpServletRequest  req, HttpServletResponse resp)  throws ServletException , IOException
 	
 	{
 		
